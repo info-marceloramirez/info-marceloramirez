@@ -1,4 +1,8 @@
-## Hi there 👋
+## Marcelo Ramirez
+
+`Systems Architect`
+
+I’m an engineer, architect, developer, and academic dedicated to simplifying systems and enhancing its efficiency. My efforts are directed towards optimizing processes, reducing expenses, and creating adaptable and scalable systems. I am always on the lookout for fresh solutions and eager to learn and refine my skills. In addition to my technical interests, I’m very interested in art and photography, which adds imagination to my work.
 
 <!--
 **info-marceloramirez/info-marceloramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
